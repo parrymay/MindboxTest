@@ -1,0 +1,4 @@
+SELECT Name, Category
+FROM Product p
+LEFT JOIN Category c
+ON p.Name = c.ProductName
