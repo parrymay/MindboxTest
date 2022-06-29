@@ -1,0 +1,15 @@
+C:\Users\Alks\Desktop\Project\C#\MindboxTest\MindboxTest\obj\Debug\net6.0\MindboxTest.csproj.AssemblyReference.cache
+C:\Users\Alks\Desktop\Project\C#\MindboxTest\MindboxTest\obj\Debug\net6.0\MindboxTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alks\Desktop\Project\C#\MindboxTest\MindboxTest\obj\Debug\net6.0\MindboxTest.AssemblyInfoInputs.cache
+C:\Users\Alks\Desktop\Project\C#\MindboxTest\MindboxTest\obj\Debug\net6.0\MindboxTest.AssemblyInfo.cs
+C:\Users\Alks\Desktop\Project\C#\MindboxTest\MindboxTest\obj\Debug\net6.0\MindboxTest.csproj.CoreCompileInputs.cache
+C:\Users\Alks\Desktop\Project\C#\MindboxTest\MindboxTest\bin\Debug\net6.0\MindboxTest.deps.json
+C:\Users\Alks\Desktop\Project\C#\MindboxTest\MindboxTest\bin\Debug\net6.0\MindboxTest.dll
+C:\Users\Alks\Desktop\Project\C#\MindboxTest\MindboxTest\bin\Debug\net6.0\MindboxTest.pdb
+C:\Users\Alks\Desktop\Project\C#\MindboxTest\MindboxTest\bin\Debug\net6.0\Geometry.dll
+C:\Users\Alks\Desktop\Project\C#\MindboxTest\MindboxTest\bin\Debug\net6.0\Geometry.pdb
+C:\Users\Alks\Desktop\Project\C#\MindboxTest\MindboxTest\obj\Debug\net6.0\MindboxTest.csproj.CopyComplete
+C:\Users\Alks\Desktop\Project\C#\MindboxTest\MindboxTest\obj\Debug\net6.0\MindboxTest.dll
+C:\Users\Alks\Desktop\Project\C#\MindboxTest\MindboxTest\obj\Debug\net6.0\refint\MindboxTest.dll
+C:\Users\Alks\Desktop\Project\C#\MindboxTest\MindboxTest\obj\Debug\net6.0\MindboxTest.pdb
+C:\Users\Alks\Desktop\Project\C#\MindboxTest\MindboxTest\obj\Debug\net6.0\ref\MindboxTest.dll
